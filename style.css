@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 'poppins', sans-serif;
+}
+
+.link-header {
+    color: #17233D;
+    font-size: 20px;
+    line-height: 21px;
+    text-align: center;
+    height: 21px;
+    cursor: pointer;
+    font-family: 'Poppins';
+    display: inline-block;
+    padding-left: 10px;
+
+
+}
+
+.button-header {
+
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 10px;
+    Width: 124px;
+    Height: 45px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: nullpx;
+    margin-left: 20px;
+
+
+}
+
+.img-centro {
+
+    Width: 530px;
+    Height: 466.9px left: 181%;
+
+
+}
+
+.text-1 {
+    color: #161A49;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+
+
+}
+
+.text-3 {
+    color: #6FBF44;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    cursor: pointer;
+ 
+}
+
+.text-2 {
+    color: #4B505A;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+}
+
+@media screen and (max-width:100px)and (orientation: landscape) {
+    height: 100px;
+    width: 200px;
+    width: 100%;
+    height: 50%;
+    padding: 0;
+    margin: 0;
+}
+
+section { /*coloca texto para lado direito*/
+    display: inline-block;
+    margin-top: 60px;
+}
+
+header{
+    display: inline-block;
+    margin-top: 40px;
+
+}
+
+text-1{
+    Width: 582px;
+    height: 184px;
+    
+}
+
+img-centro{
+    max-width: 200px;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+button-header{
+    margin-top: 40px;
+    margin-left: 220px;
+}
